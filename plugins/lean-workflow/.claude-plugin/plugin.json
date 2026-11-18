@@ -1,0 +1,10 @@
+{
+  "name": "lean-workflow",
+  "description": "Token-lean agents and workflow skills for Claude Code: plan, build, debug, test, review, secure and ship with short, strictly formatted reports.",
+  "version": "1.0.0",
+  "author": { "name": "varun642002" },
+  "homepage": "https://github.com/varun642002/lean-workflow",
+  "repository": "https://github.com/varun642002/lean-workflow",
+  "license": "MIT",
+  "keywords": ["agents", "skills", "workflow", "code-review", "debugging", "security", "performance", "token-efficient"]
+}

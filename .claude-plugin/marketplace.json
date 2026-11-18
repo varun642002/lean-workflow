@@ -1,0 +1,17 @@
+{
+  "name": "lean-workflow",
+  "owner": { "name": "varun642002", "url": "https://github.com/varun642002" },
+  "metadata": {
+    "description": "Lean, token-efficient agents and workflow skills for Claude Code.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "lean-workflow",
+      "source": "./plugins/lean-workflow",
+      "description": "Ten lean subagents (planner, builder, debugger, ui-debugger, perf, security, security-tester, reviewer, tester, docs) plus six workflow skills (/feature, /fix, /debug, /secure, /review, /ship) that orchestrate them.",
+      "category": "workflow",
+      "keywords": ["agents", "skills", "workflow", "code-review", "debugging", "security", "token-efficient"]
+    }
+  ]
+}
